@@ -1,0 +1,2 @@
+Acesta este fișierul info.txt pentru laboratorul GitHub.
+Creat de Macrei Andrei.
